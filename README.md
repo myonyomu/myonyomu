@@ -5,7 +5,7 @@
 ## Link
 [Twitter @myonyomu](https://twitter.com/myonyomu)
 
-[Blog(Notion)](https://www.notion.so/myonyomu/Lifelog-a4e7b1ab4d364a36acb2f646a769cb99)
+[Blog(Notion)](https://myonyomu.notion.site/Lifelog-a4e7b1ab4d364a36acb2f646a769cb99)
 
 [Zenn.dev](https://zenn.dev/myonyomu) 
 
